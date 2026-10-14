@@ -38,7 +38,7 @@ Open the local address shown in the terminal. After editing `content.md`, run `n
 
 ## Publishing
 
-The existing site is published at [duanxnuo.github.io/beyond-the-map-workshop](https://duanxnuo.github.io/beyond-the-map-workshop/). A commit to `main` triggers [`.github/workflows/pages.yml`](./.github/workflows/pages.yml), which builds and deploys the site to GitHub Pages. The repository and URL retain their original name; the displayed website name is RESHAPE 2027.
+The official workshop site is published at [reshape2027.github.io](https://reshape2027.github.io/) from the public `RESHAPE2027/RESHAPE2027.github.io` repository. A commit to `main` triggers [`.github/workflows/pages.yml`](./.github/workflows/pages.yml), which builds and deploys the site to GitHub Pages. The earlier personal-account copy is at [duanxnuo.github.io/beyond-the-map-workshop](https://duanxnuo.github.io/beyond-the-map-workshop/).
 
 ## Files
 
